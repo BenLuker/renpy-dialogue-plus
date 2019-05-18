@@ -1,0 +1,18 @@
+{
+  "name": "renpy-dialogue-plus",
+  "main": "./lib/renpy-dialogue-plus",
+  "version": "0.0.0",
+  "description": "A project aimed to add functionality and UI for Ren'Py dialogue in Atom",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "renpy-dialogue-plus:toggle"
+  },
+  "repository": "https://github.com/BenLuker/renpy-dialogue-plus.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

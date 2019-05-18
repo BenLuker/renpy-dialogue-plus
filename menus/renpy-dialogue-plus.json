@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle renpy-dialogue-plus",
+        "command": "renpy-dialogue-plus:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "renpy-dialogue-plus",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "renpy-dialogue-plus:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
