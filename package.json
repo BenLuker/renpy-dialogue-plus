@@ -1,7 +1,7 @@
 {
   "name": "renpy-dialogue-plus",
   "main": "./lib/renpy-dialogue-plus",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A project aimed to add functionality and UI for Ren'Py dialogue in Atom",
   "keywords": [],
   "activationCommands": {
